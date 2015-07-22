@@ -1,0 +1,3 @@
+interface Viewport {
+  top: number;
+}
